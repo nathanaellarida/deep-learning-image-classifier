@@ -1,0 +1,28 @@
+# Model weights
+*.h5
+*.keras
+*.pt
+*.pth
+
+# Dataset
+train/
+test/
+*.jpg
+*.jpeg
+*.png
+*.bmp
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
